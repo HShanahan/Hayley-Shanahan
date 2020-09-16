@@ -2,7 +2,10 @@
  Personal profile
  <html>
  <body>
- <h1> test info</h1>
+
  <p> just typing x random stuff here </p>
+ <h1> more info</h1>
+ <P>more info again <P>
+
  <html>
  <body>
